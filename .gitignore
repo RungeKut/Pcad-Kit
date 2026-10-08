@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+tests/vyvod/
+tools/dbx-host/DbxHost.exe
+.quota-resume.md
